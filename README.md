@@ -1,1 +1,2 @@
-# test-site.github.io
+#Welcome to CoolDevGA Test-Site!
+Common now!
